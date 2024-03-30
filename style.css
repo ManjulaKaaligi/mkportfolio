@@ -137,6 +137,15 @@
     background: linear-gradient(270deg, #ff994f, #fa6d86);
 }
 
+.card-img-top{
+    height: 250px;
+    width: 348px;
+}
+
+.card{
+    height: 350px;
+    width: 348px;
+}
 .reset-btn{
     
     width: 120px;
